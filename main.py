@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 import random
-
+666
 fps = 150
 single = 20
 C = 10
